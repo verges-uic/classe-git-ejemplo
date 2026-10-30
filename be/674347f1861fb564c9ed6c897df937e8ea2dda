@@ -1,0 +1,14 @@
+ejemplo
+  h_f371ef738e751a 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "be674347f1861fb564c9ed6c897df937e8ea2dda",
+  "prompts": {},
+  "humans": {
+    "h_f371ef738e751a": {
+      "author": "verges-uic <rvergesi@uic.es>"
+    }
+  }
+}
