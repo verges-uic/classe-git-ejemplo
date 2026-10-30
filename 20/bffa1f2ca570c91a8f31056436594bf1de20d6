@@ -1,0 +1,16 @@
+test.py
+  h_f371ef738e751a 1
+problemas.py
+  h_f371ef738e751a 5-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "20bffa1f2ca570c91a8f31056436594bf1de20d6",
+  "prompts": {},
+  "humans": {
+    "h_f371ef738e751a": {
+      "author": "verges-uic <rvergesi@uic.es>"
+    }
+  }
+}
