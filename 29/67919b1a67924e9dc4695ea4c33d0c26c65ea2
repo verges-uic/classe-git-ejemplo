@@ -1,0 +1,14 @@
+clase.py
+  h_461fcf28b28a60 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2967919b1a67924e9dc4695ea4c33d0c26c65ea2",
+  "prompts": {},
+  "humans": {
+    "h_461fcf28b28a60": {
+      "author": "nubec-it <admin@nubec.es>"
+    }
+  }
+}
